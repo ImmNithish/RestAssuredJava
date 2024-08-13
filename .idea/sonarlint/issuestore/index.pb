@@ -20,3 +20,5 @@ T
 $src/test/java/day3/ItemCreation.java,6\9\69206858f26c4bc032f701f3c0ec99d8a83f4848
 X
 (src/test/java/day3/ItemCreationTest.java,e\8\e8501198214042ede0a5c5612cd36288a190512b
+Z
+*src/test/java/day2/CookiesValidations.java,e\8\e81a5d7b20517dcea589e81205ec19610f260a4c
