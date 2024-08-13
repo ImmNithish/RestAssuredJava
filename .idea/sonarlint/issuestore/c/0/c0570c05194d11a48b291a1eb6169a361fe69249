@@ -1,0 +1,7 @@
+
+Î
+java:S3577#"ŒRename class "Autentication" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(³À¾ÀøÿÿÿÿJ$d376df73-3472-47e1-8f8d-97847167f236
+~
+java:S1128"=Remove this unused import 'io.restassured.response.Response'.(äŽ¯»ùÿÿÿÿJ$dd82c5ec-17a6-433d-bf10-ab10001b0ca9
+ˆ
+java:S1128	"GRemove this unused import 'io.restassured.matcher.RestAssuredMatchers'.(®Ö½ÎþÿÿÿÿJ$d7829313-cb71-4d9a-b232-5cdad521bf26
