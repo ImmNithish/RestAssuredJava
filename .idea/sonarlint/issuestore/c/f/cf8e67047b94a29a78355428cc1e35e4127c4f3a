@@ -1,0 +1,7 @@
+
+ª
+java:S3577"“Rename class "SalesOrderFromNative" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ì±‚ü
+b
+java:S1128"GRemove this unused import 'io.restassured.matcher.RestAssuredMatchers'.(®Ö½Îþÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'org.hamcrest.Matchers'.(Ý†Žâúÿÿÿÿ
