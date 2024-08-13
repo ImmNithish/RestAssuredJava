@@ -90,26 +90,7 @@ public class Autentication {
 	
 	
 	}
-	
-	@Test
-	
-	public void beareAuth() {
-		
-		
-		// in the given part we have to provide the  Request headers part 
-		
-		
-		given()
-		.headers("Authorization","Bearer  ") // after bearee it is the token we generated form github
-		
-	
-		.when()
-			.get("https://api.github.com/user/repos")
-		.then()
-		.statusCode(200)
-		.log().all();
-		
-	}
+
 	
 	
 	@Test
